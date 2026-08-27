@@ -107,6 +107,7 @@ dfb1
 <img width="662" height="507" alt="image" src="https://github.com/user-attachments/assets/e389186e-0dde-428c-b625-278f1c16f222" />
 
 ### TARGET ENCODER
+
 ```
 from category_encoders import TargetEncoder
 
